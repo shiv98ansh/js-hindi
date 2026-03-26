@@ -3,7 +3,7 @@ let accountEmail="shivansh@google.com"
 var accountPassword="12345"
 /*variable ka use mat karna*/
 accountCity="jaipur"
-accountId=2
+
 /*ese likh sakhte ho par kabhi mat likhna*/
 console.log(accountId);
 console.table([accountEmail,accountId,accountId,accountCity])
